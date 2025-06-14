@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ashish Kumar Manik!
+# 👋 Hi, I'm Ashish Kumar Manik
 
 **Aspiring Software Developer** | Bhubaneswar, Odisha, India
 
