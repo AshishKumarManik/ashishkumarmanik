@@ -31,7 +31,7 @@ collaborating with others, and bringing innovative ideas to life.
 - Participated in technical sessions and solved real-life problems using automation.
 
 ### Python Programmer Intern  
-*CodeAlpha (01/06/2025 - Present )*
+*CodeAlpha (01/06/2025 - 30/06/2025 )*
 - Built hands-on Python programming expertise through real-world projects.
 - Collaborated in teams to develop and implement solutions.
 - Researched industry trends, adopted modern frameworks, and enhanced project efficiency.
