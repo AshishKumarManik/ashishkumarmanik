@@ -17,7 +17,7 @@
 ## 🚀 About Me  
 
 I'm currently pursuing a B.Tech in **Computer Science (AI Specialization)** at GITA Autonomous College, Bhubaneswar.  
-My journey spans hands-on experience in Python programming, digital marketing, and video editing.  
+My journey spans hands-on experience in **Python programming, digital marketing, and video editing**.  
 I thrive on learning new technologies, collaborating with others, and bringing innovative ideas to life.  
 
 ---
@@ -44,24 +44,34 @@ I thrive on learning new technologies, collaborating with others, and bringing i
 
 ### <b>Artificial Intelligence Intern – Pinnacle</b>  
 <sub><i>Jun 2025 – Present</i></sub>  
-- Built a <mark>Translator App</mark> using **Tkinter** + **Deep Translator API**.  
-- Applied <b>AI tools</b> to solve <i>real-world automation problems</i>.  
-- Conducted research on <ins>latest AI trends</ins> and applied them to projects.  
+- Built a **Translator App** using Tkinter + Deep Translator API.  
+- Applied AI tools to solve **real-world automation problems**.  
+- Conducted research on **latest AI trends**.  
+**Skills:** Python, Tkinter, APIs, AI Tools  
+
+---
 
 ### <b>Python Programmer Intern – CodeAlpha</b>  
 <sub><i>Jun 2025</i></sub>  
 - Developed **Python-based automation projects**.  
-- Collaborated in teams to improve <mark>efficiency</mark> & <mark>scalability</mark>.  
+- Collaborated in teams to improve efficiency & scalability.  
+**Skills:** Python, Automation, GitHub  
+
+---
 
 ### <b>Digital Marketing Intern – Millionaire Track</b>  
 <sub><i>Mar 2025 – Apr 2025</i></sub>  
-- Executed **Google Analytics**, <i>SEO</i>, and **Facebook Ads** campaigns.  
-- Improved <mark>brand visibility</mark> & <mark>audience engagement</mark>.  
+- Executed **Google Analytics, SEO, and Facebook Ads** campaigns.  
+- Improved **brand visibility & audience engagement**.  
+**Skills:** SEO, Google Analytics, Ads Manager  
+
+---
 
 ### <b>Video Editing Intern – Millionaire Track</b>  
 <sub><i>Feb 2025 – Mar 2025</i></sub>  
-- Edited <b>professional videos</b> with **Adobe Premiere Pro**.  
-- Delivered <i>creative content</i> within <ins>tight deadlines</ins>.  
+- Edited **professional videos** with Adobe Premiere Pro.  
+- Delivered **creative content** within tight deadlines.  
+**Skills:** Adobe Premiere Pro, Creativity, Time Management  
 
 </details>
 
@@ -84,6 +94,7 @@ GITA Autonomous College, Bhubaneswar
 - [Python Automation](https://github.com/AshishKumarManik/CodeAlpha_Python_Automation) – Automatically sorts and organizes files.  
 - [Hangman Game](https://github.com/AshishKumarManik/CodeAlpha_HangmanGame) – Classic word guessing game in Python.  
 - [Translator App](https://github.com/AshishKumarManik/PINNAClE-lab_Translator_App) – Tkinter-based app using Deep Translator API.  
+- [Weather-App](https://github.com/AshishKumarManik/Weather-App) – Real-time weather info using **Python, API, Tkinter**.  
 
 </details>  
 
@@ -121,7 +132,7 @@ GITA Autonomous College, Bhubaneswar
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:ashishmanik007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
@@ -132,7 +143,9 @@ GITA Autonomous College, Bhubaneswar
 ---
 
 <p align="center">
-  <b>✨ Thanks for visiting my profile! Let's connect and create something amazing together. ✨</b>
+  <b>✨ Thanks for visiting my profile! Let's connect and create something amazing together. ✨</b>  
+  <br>  
+  <sub>Created by <a href="https://www.linkedin.com/in/ashish-manik-15022005ak/">Ashish Kumar Manik</a></sub>
 </p>
 
 <p align="center">
